@@ -31,10 +31,12 @@ Please add changes there.
 # Reading List
 ![](https://raw.githubusercontent.com/bamos/reading-list/gh-pages/img/reading-list.gif)
 
+Original code developed by [Brandon Amos](http://bamos.github.io/).
+
 This repository contains my open source reading list.
 I keep track of books by editing the files here and
 the results are automatically published as a website at
-[http://bamos.github.io/reading-list](http://bamos.github.io/reading-list).
+[http://wrideout.github.io/reading-list](http://wrideout.github.io/reading-list).
 
 # Goals
 + Plaintext and friendly data format.
