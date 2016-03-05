@@ -59,20 +59,20 @@ div	/Users/williamrideout/Workspace/reading-list/index.html	/^          <div cla
 h	/Users/williamrideout/Workspace/reading-list/index.html	/^              <h2>To Read$/;"	function	line:112
 span	/Users/williamrideout/Workspace/reading-list/index.html	/^                  <span class="count">$/;"	function	line:113
 div	/Users/williamrideout/Workspace/reading-list/index.html	/^            <div id="to-read"><\/div>$/;"	function	line:120
-section	/Users/williamrideout/Workspace/reading-list/index.html	/^    <section id="cHead" class="container content-section">$/;"	function	line:128
-div	/Users/williamrideout/Workspace/reading-list/index.html	/^      <div class="row">$/;"	function	line:129
-div	/Users/williamrideout/Workspace/reading-list/index.html	/^        <div class="col-lg-8 col-lg-offset-2">$/;"	function	line:130
-h	/Users/williamrideout/Workspace/reading-list/index.html	/^          <h2>Compilations<\/h2>$/;"	function	line:131
-div	/Users/williamrideout/Workspace/reading-list/index.html	/^          <div id="compilations"><\/div>$/;"	function	line:137
-script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="\/\/static.getclicky.com\/js" type="text\/javascript"><\/script>$/;"	function	line:143
-script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="vendor\/js\/jquery.min.js"><\/script>$/;"	function	line:145
-script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="vendor\/js\/bootstrap.min.js"><\/script>$/;"	function	line:146
-script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="vendor\/js\/bootbox.js"><\/script>$/;"	function	line:147
-script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="vendor\/js\/js-yaml.min.js"><\/script>$/;"	function	line:148
-script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="vendor\/js\/handlebars.min.js"><\/script>$/;"	function	line:149
-script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="vendor\/js\/storyjs-embed.js"><\/script>$/;"	function	line:150
-script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="vendor\/js\/marked.min.js"><\/script>$/;"	function	line:151
-script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="vendor\/js\/crypto-js\/crypto-js.js"><\/script>$/;"	function	line:152
-script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="js\/grayscale.js"><\/script>$/;"	function	line:154
-script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="js\/sp.js"><\/script>$/;"	function	line:155
-script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="js\/reading-list.js"><\/script>$/;"	function	line:156
+section	/Users/williamrideout/Workspace/reading-list/index.html	/^    <section id="cHead" class="container content-section">$/;"	function	line:127
+div	/Users/williamrideout/Workspace/reading-list/index.html	/^      <div class="row">$/;"	function	line:128
+div	/Users/williamrideout/Workspace/reading-list/index.html	/^        <div class="col-lg-8 col-lg-offset-2">$/;"	function	line:129
+h	/Users/williamrideout/Workspace/reading-list/index.html	/^          <h2>Compilations<\/h2>$/;"	function	line:130
+div	/Users/williamrideout/Workspace/reading-list/index.html	/^          <div id="compilations"><\/div>$/;"	function	line:134
+script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="\/\/static.getclicky.com\/js" type="text\/javascript"><\/script>$/;"	function	line:139
+script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="vendor\/js\/jquery.min.js"><\/script>$/;"	function	line:141
+script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="vendor\/js\/bootstrap.min.js"><\/script>$/;"	function	line:142
+script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="vendor\/js\/bootbox.js"><\/script>$/;"	function	line:143
+script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="vendor\/js\/js-yaml.min.js"><\/script>$/;"	function	line:144
+script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="vendor\/js\/handlebars.min.js"><\/script>$/;"	function	line:145
+script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="vendor\/js\/storyjs-embed.js"><\/script>$/;"	function	line:146
+script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="vendor\/js\/marked.min.js"><\/script>$/;"	function	line:147
+script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="vendor\/js\/crypto-js\/crypto-js.js"><\/script>$/;"	function	line:148
+script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="js\/grayscale.js"><\/script>$/;"	function	line:150
+script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="js\/sp.js"><\/script>$/;"	function	line:151
+script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="js\/reading-list.js"><\/script>$/;"	function	line:152
