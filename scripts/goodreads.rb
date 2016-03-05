@@ -20,7 +20,7 @@ sortedBooks = shelf.books.sort_by do |book|
 end
 File.open("data/to-read.goodreads.yaml", "w") do |file|
   sortedBooks.each do |book|
-    file.puts "- author: \"#{book["book"]["authors"]["author"]["name"]}\""
+    file.puts "- -author: \"#{book["book"]["authors"]["author"]["name"]}\""
     file.puts "  title: \"#{book["book"]["title"]}\""
   end
 end
@@ -32,7 +32,7 @@ sortedBooks = shelf.books.sort_by do |book|
 end
 File.open("data/finished.goodreads.yaml", "w") do |file|
   sortedBooks.each do |book|
-    file.puts "- author: \"#{book["book"]["authors"]["author"]["name"]}\""
+    file.puts "- -author: \"#{book["book"]["authors"]["author"]["name"]}\""
     file.puts "  title: \"#{book["book"]["title"]}\""
     rating = book["rating"]
     if rating then
