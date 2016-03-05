@@ -244,7 +244,6 @@ title	/Users/williamrideout/Workspace/reading-list/data/to-read.yaml	/^  title: 
 title	/Users/williamrideout/Workspace/reading-list/data/to-read.yaml	/^  title: "REAMDE"$/;"	function	line:314
 title	/Users/williamrideout/Workspace/reading-list/data/to-read.yaml	/^  title: "The Three Body Problem"$/;"	function	line:316
 title	/Users/williamrideout/Workspace/reading-list/data/to-read.yaml	/^  title: "Armada"$/;"	function	line:318
-url	/Users/williamrideout/Workspace/reading-list/data/compilations.yaml	/^  url: http:\/\/www.npr.org\/2011\/08\/11\/139085843\/your-picks-top-100-science-fiction-fantasy-books/;"	function	line:2
 html	/Users/williamrideout/Workspace/reading-list/index.html	/^<html lang="en">$/;"	function	line:2
 head	/Users/williamrideout/Workspace/reading-list/index.html	/^  <head>$/;"	function	line:3
 meta	/Users/williamrideout/Workspace/reading-list/index.html	/^    <meta charset="utf-8">$/;"	function	line:4
@@ -317,3 +316,5 @@ script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src
 script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="js\/grayscale.js"><\/script>$/;"	function	line:150
 script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="js\/sp.js"><\/script>$/;"	function	line:151
 script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="js\/reading-list.js"><\/script>$/;"	function	line:152
+url	/Users/williamrideout/Workspace/reading-list/data/compilations.yaml	/^  url: http:\/\/www.npr.org\/2011\/08\/11\/139085843\/your-picks-top-100-science-fiction-fantasy-books$/;"	function	line:2
+url	/Users/williamrideout/Workspace/reading-list/data/compilations.yaml	/^  url: http:\/\/apps.npr.org\/best-books-2015\//;"	function	line:4
