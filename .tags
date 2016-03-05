@@ -244,6 +244,8 @@ title	/Users/williamrideout/Workspace/reading-list/data/to-read.yaml	/^  title: 
 title	/Users/williamrideout/Workspace/reading-list/data/to-read.yaml	/^  title: "REAMDE"$/;"	function	line:314
 title	/Users/williamrideout/Workspace/reading-list/data/to-read.yaml	/^  title: "The Three Body Problem"$/;"	function	line:316
 title	/Users/williamrideout/Workspace/reading-list/data/to-read.yaml	/^  title: "Armada"$/;"	function	line:318
+url	/Users/williamrideout/Workspace/reading-list/data/compilations.yaml	/^  url: http:\/\/www.npr.org\/2011\/08\/11\/139085843\/your-picks-top-100-science-fiction-fantasy-books$/;"	function	line:2
+url	/Users/williamrideout/Workspace/reading-list/data/compilations.yaml	/^  url: http:\/\/apps.npr.org\/best-books-2015\//;"	function	line:4
 html	/Users/williamrideout/Workspace/reading-list/index.html	/^<html lang="en">$/;"	function	line:2
 head	/Users/williamrideout/Workspace/reading-list/index.html	/^  <head>$/;"	function	line:3
 meta	/Users/williamrideout/Workspace/reading-list/index.html	/^    <meta charset="utf-8">$/;"	function	line:4
@@ -268,8 +270,8 @@ i	/Users/williamrideout/Workspace/reading-list/index.html	/^            <i class
 div	/Users/williamrideout/Workspace/reading-list/index.html	/^        <div class="collapse navbar-collapse navbar-right navbar-main-collapse">$/;"	function	line:44
 ul	/Users/williamrideout/Workspace/reading-list/index.html	/^          <ul class="nav navbar-nav">$/;"	function	line:45
 li	/Users/williamrideout/Workspace/reading-list/index.html	/^            <li class="hidden"><a href="#page-top"><\/a><\/li>$/;"	function	line:48
-li	/Users/williamrideout/Workspace/reading-list/index.html	/^            <li><a class="page-scroll" href="#rHead">To Read<\/a><\/li>$/;"	function	line:50
-li	/Users/williamrideout/Workspace/reading-list/index.html	/^            <li><a class="page-scroll" href="#fHead">Finished<\/a><\/li>$/;"	function	line:51
+li	/Users/williamrideout/Workspace/reading-list/index.html	/^            <li><a class="page-scroll" href="#fHead">Finished<\/a><\/li>$/;"	function	line:50
+li	/Users/williamrideout/Workspace/reading-list/index.html	/^            <li><a class="page-scroll" href="#rHead">To Read<\/a><\/li>$/;"	function	line:51
 li	/Users/williamrideout/Workspace/reading-list/index.html	/^            <li><a class="page-scroll" href="#cHead">Compilations<\/a><\/li>$/;"	function	line:52
 header	/Users/williamrideout/Workspace/reading-list/index.html	/^    <header class="intro">$/;"	function	line:60
 div	/Users/williamrideout/Workspace/reading-list/index.html	/^      <div class="intro-body">$/;"	function	line:61
@@ -316,5 +318,3 @@ script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src
 script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="js\/grayscale.js"><\/script>$/;"	function	line:150
 script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="js\/sp.js"><\/script>$/;"	function	line:151
 script	/Users/williamrideout/Workspace/reading-list/index.html	/^    <script src="js\/reading-list.js"><\/script>$/;"	function	line:152
-url	/Users/williamrideout/Workspace/reading-list/data/compilations.yaml	/^  url: http:\/\/www.npr.org\/2011\/08\/11\/139085843\/your-picks-top-100-science-fiction-fantasy-books$/;"	function	line:2
-url	/Users/williamrideout/Workspace/reading-list/data/compilations.yaml	/^  url: http:\/\/apps.npr.org\/best-books-2015\//;"	function	line:4
